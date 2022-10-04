@@ -1,0 +1,25 @@
+/* NAVBAR */
+.navbar-brand{
+font-size: 1.5rem;
+padding-left: 20px;
+}
+
+/* MIDDLECONTAINER */
+.middle-container{
+background-image: url('../imagini/carti.jpg');
+background-repeat:no-repeat;
+background-size: cover;
+background-position:center;
+background-color: black;
+width: 100vw;
+height: 500px;
+/* background-image: url('../imagini/lawpic.jpg'); */
+}
+
+/* .imagine-principala{
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+} */
